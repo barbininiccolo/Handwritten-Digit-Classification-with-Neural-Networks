@@ -1,3 +1,4 @@
+![Handwritten Digit Classification](./assets/hero.png)
 **Handwritten Digit Classification**
 
 This project trains a neural network to classify handwritten digits using the MNIST dataset.
